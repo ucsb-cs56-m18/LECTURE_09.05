@@ -5,3 +5,11 @@
 A RESTFul API that allows us, through a SparkJava application, to create, list and show individual blog posts stored in an MLab MongoDB database.
 
 * <https://github.com/ucsb-cs56-pconrad/sparkjava-rest-with-mlab>
+
+
+# Mustache Templating
+
+First, see: <https://github.com/perwendel/spark-template-engines/tree/master/spark-template-mustache>
+
+Then:
+
