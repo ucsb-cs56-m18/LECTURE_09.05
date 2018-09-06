@@ -13,3 +13,14 @@ First, see: <https://github.com/perwendel/spark-template-engines/tree/master/spa
 
 Then:
 
+* Basic: <https://github.com/ucsb-cs56-pconrad/sparkjava-mustache-example>
+* More Advanced, with Bootstrap Menus: <https://github.com/ucsb-cs56-pconrad/sparkjava-mustache-example-02>
+
+
+# In general, if you are looking for examples, look here: 
+
+* <https://github.com/ucsb-cs56-pconrad/>
+* <https://ucsb-cs56-pconrad.github.io/topics/spark_java/>
+
+
+
